@@ -1,3 +1,5 @@
 // Start coding here
 
-function Button() {}
+function Button({}) {
+	return <></>;
+}
